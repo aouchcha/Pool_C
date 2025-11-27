@@ -10,6 +10,7 @@ int f_ispowerof2(int x) {
     }
 
     return 1;
+    
 }
 
 int main() {
